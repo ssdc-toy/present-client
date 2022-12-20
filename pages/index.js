@@ -6,6 +6,9 @@ export default function Home() {
       <Head>
         <title>Present</title>
       </Head>
+      <div className="mx-auto max-w-lg text-center bg-white">
+        <h1></h1>
+      </div>
     </>
   );
 }
