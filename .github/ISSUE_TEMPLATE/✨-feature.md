@@ -2,7 +2,7 @@
 name: "✨ FEATURE"
 about: "\b구현할 기능을 작성해주세요."
 title: "[feature/{branch_name}] 기능을 구현한다."
-labels: ''
+labels: Frontend
 assignees: ''
 
 ---
